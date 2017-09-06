@@ -12,6 +12,9 @@
     "issues",
     "json"
   ],
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-cli": "^6.26.0",
