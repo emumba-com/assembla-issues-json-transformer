@@ -1,0 +1,22 @@
+{
+  "name": "assembla-issues-json-transformer",
+  "version": "1.0.0",
+  "description": "A utility to convert Assembla's exported \"JSON\" into an actual JSON format",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assembla",
+    "issues",
+    "json"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  },
+  "author": "Umar Ashfaq <umar.mughal2@gmail.com> (http://www.emumba.com)",
+  "license": "ISC"
+}
